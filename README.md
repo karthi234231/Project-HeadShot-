@@ -23,10 +23,6 @@ Project Headshot features a modern web interface built with React for the fronte
 
 
 ## Technologies
-![Screenshot 2024-08-25 214258](https://github.com/user-attachments/assets/023c6740-205a-4305-8b5f-25521925dba2)
-
-![Screenshot 2024-09-01 132826](https://github.com/user-attachments/assets/a2066e6c-9d5d-4565-b289-1ad048badacd)
-
 - **Frontend:** React
 - **Backend:** Python with OpenCV
 
