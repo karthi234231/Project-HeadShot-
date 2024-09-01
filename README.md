@@ -13,10 +13,14 @@ Project Headshot features a modern web interface built with React for the fronte
 
 <p align="center">
   <video width="500" controls>
-    <source src="https://github.com/user-attachments/assets/741a6cf7-1b6e-4452-b8f0-beadc3408af7">
+    <source src="https://github.com/user-attachments/assets/3b2fa4bf-6f66-4d9a-9114-dcfc07720225">
     Your browser does not support the video tag.
   </video>
 </p>
+
+
+
+
 
 
 
