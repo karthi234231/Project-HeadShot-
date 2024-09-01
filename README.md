@@ -6,7 +6,26 @@ Welcome to Project Headshot! This project integrates a React frontend with a Pyt
 
 Project Headshot features a modern web interface built with React for the frontend, while the backend, developed in Python, leverages OpenCV to perform face detection and head tracking. Both components work together seamlessly to deliver a comprehensive facial recognition system.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/023c6740-205a-4305-8b5f-25521925dba2" alt="Description of Image 1" width="500"/>
+  <img src="https://github.com/user-attachments/assets/a2066e6c-9d5d-4565-b289-1ad048badacd" alt="Description of Image 2" width="500"/>
+</p>
+
+<p align="center">
+  <video width="500" controls>
+    <source src="[path/to/video.mp4" type="video/mp4](https://github.com/user-attachments/assets/741a6cf7-1b6e-4452-b8f0-beadc3408af7)">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+
+
+
+
 ## Technologies
+![Screenshot 2024-08-25 214258](https://github.com/user-attachments/assets/023c6740-205a-4305-8b5f-25521925dba2)
+
+![Screenshot 2024-09-01 132826](https://github.com/user-attachments/assets/a2066e6c-9d5d-4565-b289-1ad048badacd)
 
 - **Frontend:** React
 - **Backend:** Python with OpenCV
