@@ -10,13 +10,13 @@ Project Headshot features a modern web interface built with React for the fronte
   <img src="https://github.com/user-attachments/assets/023c6740-205a-4305-8b5f-25521925dba2" alt="Description of Image 1" width="500"/>
   <img src="https://github.com/user-attachments/assets/a2066e6c-9d5d-4565-b289-1ad048badacd" alt="Description of Image 2" width="500"/>
   <br>
-  ## Running HeadShot
+  Running HeadShot
   <img src="https://github.com/user-attachments/assets/f6a1ea3c-449e-4174-8b82-192da8f24db7" alt="Description of Image 2" width="500"/>
   <br>
-  ## HeadShot app after Clicking Terminate button
+  HeadShot app after Clicking Terminate button
   <img src="https://github.com/user-attachments/assets/3ee52de6-5356-44b1-82be-85adbf16765f" alt="Description of Image 2" width="500"/>
   <br>
-  ## Face Tracking With count
+  Face Tracking With count
   <img src="https://github.com/user-attachments/assets/89328029-e143-470f-9196-682258aefa75" alt="Description of Image 2" width="500"/>
 </p>
 
